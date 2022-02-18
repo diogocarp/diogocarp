@@ -3,9 +3,9 @@
 - 👀 I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML and JavaScript.
 - 🌱 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
 - 💞️ I’m looking to collaborate on on web design, backend and frontend development for businesses.
-- 📫 How to reach me:
-- Instagram - @diogocarp - https://www.instagram.com/diogocarp/
-- Twitter - @Diogocarp - https://twitter.com/Diogocarp
+- 📫 How to reach me:<br>
+- Instagram - @diogocarp - https://www.instagram.com/diogocarp/<br>
+- Twitter - @Diogocarp - https://twitter.com/Diogocarp<br>
 - Linkedin - @Diogo Carpinelli - https://www.linkedin.com/in/diogo-carpinelli-95ba131b6</p>
 <div/>
 
