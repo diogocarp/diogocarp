@@ -2,7 +2,7 @@
   <p>- 👋 Hi, I’m @diogocarp, brazilian, i'm 17y, I am interested and determined, I program and I am a web designer.
 - 👀 I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML and JavaScript.
 - 🌱 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
-- 💞️ I’m looking to collaborate on on web design, backend and frontend development for businesses.
+- 💞️ I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
 - 📫 How to reach me:<br>
 - Instagram - @diogocarp - https://www.instagram.com/diogocarp/<br>
 - Twitter - @Diogocarp - https://twitter.com/Diogocarp<br>
