@@ -1,13 +1,13 @@
 <div>
-  <p>- 👋 Hi, I’m @diogocarp, brazilian, i'm 17y, I am interested and determined, I program and I am a web designer.
-- 👀 I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML and JavaScript.
-- 🌱 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
-- 💞️ I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
-- 📫 How to reach me:<br>
+  <p>Hi, I’m @diogocarp, brazilian, i'm 17y, I am interested and determined, I program and I am a web designer.
+I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML and JavaScript.
+I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
+I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
+How to reach me:<br>
 <div>
-      <a href="https://instagram.com/diogocarp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href = "mailto:diogo.carpinelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/diogo-carpinelli-5171b51b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href = "mailto:diogo.carpinelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+   <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
   </div>
 <div/>
 
