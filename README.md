@@ -2,7 +2,7 @@
   <h2>‍ <span><img src="https://imgur.com/YBRZguG.gif" width="23px"></span> Hi, I’m Diogo Carpinelli</h2>
   <p align="left">
   
-  <p>Brazilian, i'm 18y, I am interested and determined, I program and I am a web designer.
+  <p>Brazilian, i'm 18y, I program and I am a web designer.
 I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML, CSS and JavaScript.
 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
 I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
