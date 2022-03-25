@@ -3,7 +3,7 @@
   <p align="left">
   
   <p>Brazilian, i'm 18y, I program and I am a web designer.
-I’m interested in systems development, backend and frontend, having experience with Java, Python, HTML, CSS and JavaScript.
+I’m interested in systems development, backend and frontend, having experience with Java, HTML, CSS and JavaScript.
 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
 I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
 How to reach me:<br>
