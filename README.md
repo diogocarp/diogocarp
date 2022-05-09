@@ -8,7 +8,7 @@ I'm currently studying a technical course in systems development with priority i
 I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
 How to reach me:<br>
 <br>
-<div>
+<div align="center">
       <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
      <a href = "mailto:diogo.carpinelli@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
    <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
