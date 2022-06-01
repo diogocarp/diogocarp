@@ -1,5 +1,5 @@
 <div>
-  <h2>‍ <span><img src="https://imgur.com/YBRZguG.gif" width="1px"></span> Hi, I’m Diogo Carpinelli</h2>
+  <h2>‍ <img src="https://imgur.com/YBRZguG.gif" width="23px"> Hi, I’m Diogo Carpinelli</h2>
   <p align="left">
   
   <p>Brazilian, i'm 18y, I program and I am a web designer.
