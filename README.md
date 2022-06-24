@@ -21,6 +21,8 @@ How to reach me:<br>
  
 <a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarp&theme=dracula&hide_border=false&&layout=compact"/></a></div><div align="center" valign="top">
 <br>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarp&layout=compact&langs_count=7&theme=github_dark"/>
+<br>
 <img align="center" alt="Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="json" height="40" width="40" src="https://img.icons8.com/material-rounded/48/000000/json.png" />
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
