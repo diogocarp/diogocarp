@@ -6,6 +6,8 @@
 I’m interested in systems development, backend and frontend, having experience with Java, HTML, CSS and JavaScript.
 I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
 I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogocarpcolor=blue" alt="Profile views" /> </p>
+<br>
 How to reach me:<br>
 <br>
 <div align="center">
