@@ -33,7 +33,7 @@ How to reach me:<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"  width="40" height="40"/>
 </div>
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocarp" alt="diogocarp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocarp" alt="diogocarp" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
