@@ -33,6 +33,14 @@ How to reach me:<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"  width="40" height="40"/>
 </div>
 <div align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocarp" alt="diogocarp" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarp&show_icons=true&locale=en&layout=compact" alt="diogocarp" /></p>
+
   
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
