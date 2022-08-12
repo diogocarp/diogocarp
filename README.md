@@ -42,8 +42,7 @@ How to reach me:<br>
 <p align="center">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarp&show_icons=true&locale=en&layout=compact" alt="diogocarp" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogocarp&" alt="diogocarp" /></p>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
