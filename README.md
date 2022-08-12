@@ -35,8 +35,8 @@ How to reach me:<br>
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocarp" alt="diogocarp" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarp&show_icons=true&locale=en&layout=compact" alt="diogocarp" /></p>
