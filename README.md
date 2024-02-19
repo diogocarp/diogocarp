@@ -2,10 +2,14 @@
   <h2>‍ Hi, I’m Diogo Carpinelli</h2>
   <p align="left">
   
-  <p>Brazilian, i'm 19y<br>
-I’m interested in systems development, backend and frontend, having experience with Java, HTML, CSS and JavaScript.
-I'm currently studying a technical course in systems development with priority in Java and a course in web design, I also attend high school at Etec de Cotia.
-I’m looking to collaborate on on web design, backend and frontend development for businesses.<br>
+  <p>Hello 👋, I'm Diogo Carpinelli.<br>
+I'm 20 years old, I'm a technician in Systems Development, Administration and I'm studying higher education in Systems Analysis and Development. I am interested in IT and full stack development, having knowledge of Java, SpringBoot, HTML, CSS, JavaScript, React and MySQL database.
+
+I have worked at events, assembling, configuring and maintaining computers and consoles.
+
+I currently work as a Full-Stack developer, focusing on HTML, CSS, JavaScript, JQuery, Bootstrap, ColdFusion, SQL Server and Power BI, I lead a development team for integration projects with new technologies, I give presentations and train development interns in integration, document and organize sprints using the agile Scrum methodology.
+
+I am proactive, committed, dedicated and efficient, I try to prioritize quality delivery with creativity in solving problems and time efficiency. I'm looking for challenges that bring future perspective and growth together.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogocarp" color="blue" alt="Profile views" /> </p>
 <br>
 How to reach me:<br>
