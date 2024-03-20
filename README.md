@@ -17,7 +17,7 @@ How to reach me:<br>
 <div align="center">
       <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
      <a href = "mailto:diogo.carpinelli@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-   <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+   <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a><br/>
 <a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
   </div>
 <div/>
