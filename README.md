@@ -1,8 +1,7 @@
 <div>
-  <h2>‍ Hi, I’m Diogo Carpinelli</h2>
+  <h2>‍ Hi 👋, I’m Diogo Carpinelli</h2>
   <p align="left">
   
-  <p>Hello 👋, I'm Diogo Carpinelli.<br>
 I'm 20 years old, I'm a technician in Systems Development, Administration and I'm studying higher education in Systems Analysis and Development. I am interested in IT and full stack development, having knowledge of Java, SpringBoot, HTML, CSS, JavaScript, React and MySQL database.
 
 I have worked at events, assembling, configuring and maintaining computers and consoles.
