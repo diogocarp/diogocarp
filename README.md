@@ -27,8 +27,6 @@ How to reach me:<br>
 <div align="center">
  
 <a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarp&layout=compact&langs_count=7&theme=github_dark"/>
-<br>
 <img align="center" alt="Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="json" height="40" width="40" src="https://img.icons8.com/material-rounded/48/000000/json.png" />
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,9 +37,11 @@ How to reach me:<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="30"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="30"/> </a> </p>
 </div>
 <div align="center">
+  
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocarp" alt="diogocarp" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocarp&show_icons=true&locale=en&layout=compact" alt="diogocarp" /></p>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocarp&layout=compact&langs_count=7&theme=github_dark"/>
 
 <p align="center">
 </p>
