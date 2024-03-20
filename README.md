@@ -18,12 +18,11 @@ How to reach me:<br>
       <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
      <a href = "mailto:diogo.carpinelli@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
    <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
-  
+<a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
   </div>
 <div/>
   <br>
 
-<a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
 <div align="center">
 <img align="center" alt="Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="json" height="40" width="40" src="https://img.icons8.com/material-rounded/48/000000/json.png" />
