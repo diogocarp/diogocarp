@@ -25,8 +25,9 @@ How to reach me:<br>
 
 
 <div align="center">
- 
+ <center>
 <a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+</center>
 <img align="center" alt="Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="json" height="40" width="40" src="https://img.icons8.com/material-rounded/48/000000/json.png" />
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
