@@ -14,8 +14,8 @@ I am proactive, committed, dedicated and efficient, I try to prioritize quality 
 How to reach me:<br>
 <br>
 <div align="center">
-      <a href="https://instagram.com/diogocarp" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-     <a href = "mailto:diogo.carpinelli@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+      <a href="https://instagram.com/dicarpinelli" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+     <a href = "mailto:diogocarpinelli78@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
    <a href="https://www.linkedin.com/in/diogo-carpinelli-95ba131b6" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a><br/>
 <a href="https://github.com/diogocarp"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogocarp&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
   </div>
@@ -48,8 +48,6 @@ How to reach me:<br>
 
 <p align="center">
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogocarp&" alt="diogocarp" /></p>
   
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
