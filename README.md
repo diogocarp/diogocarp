@@ -6,7 +6,7 @@ I'm 20 years old, I'm a technician in Systems Development, Administration and I'
 
 I have worked at events, assembling, configuring and maintaining computers and consoles.
 
-I currently work as a Full-Stack developer, focusing on HTML, CSS, JavaScript, JQuery, Bootstrap, ColdFusion, SQL Server and Power BI, I lead a development team for integration projects with new technologies, I give presentations and train development interns in integration, document and organize sprints using the agile Scrum methodology.
+I currently work as a Full-Stack developer, focusing on Java, Flutter, React, I lead a development team for integration projects with new technologies, I give presentations and train development interns in integration, document and organize sprints using the agile Scrum methodology.
 
 I am proactive, committed, dedicated and efficient, I try to prioritize quality delivery with creativity in solving problems and time efficiency. I'm looking for challenges that bring future perspective and growth together.<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diogocarp" color="blue" alt="Profile views" /> </p>
@@ -49,7 +49,7 @@ How to reach me:<br>
 <p align="center">
 </p>
   
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbped/diogocarp/blob/output/github-contribution-grid-snake.svg)
   
   </a> </p>
   <p><a href="https://www.buymeacoffee.com/diogocarp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/diogocarp" /></a></p><br><br>
